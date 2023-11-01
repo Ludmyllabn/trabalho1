@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>The Up</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <header class="cabeçalho">
+         <div class="logo"> 
+              <img src="" alt="Space"> 
+         </div>
+    <div class="menus">
+        <ul class="lita"     
+          <li><b>Galaxia</b></li>
+          <li><u>PLanetas</u></li>
+          <li><i>Estrelas</i></li>
+          <li><sup>Viajens</sup></li>
+          <li><sub>Linha do Tempo</sub></li>
+          <li><big>Linha do Tempo</big></li>
+          <li><small>Linha do Tempo</small></li>
+        </ul>  
+    </div>
+    </header>    
+</body>
+</html># trabalho1
